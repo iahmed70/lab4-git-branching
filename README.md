@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: _["you fought the squirrel bravely. However, at the end, you lost the squirrel casted a spell on you and you became corrupted starting your villain arc"]_
 
 ## Final Checklist
 
