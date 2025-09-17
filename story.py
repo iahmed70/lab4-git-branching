@@ -15,6 +15,8 @@ def left_path():
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+    print("you fought the squirrel bravely. However, at the end, you lost")
+    print("the squirrel casted a spell on you and you became corrupted starting your villain arc")
 
 def center_path():
     print("You are walking on the center path")
