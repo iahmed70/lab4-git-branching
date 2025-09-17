@@ -10,12 +10,14 @@ Branches in this repo (with details):
     80c8ebb | Author: Ishaq Ahmed <231743863+iahmed70@users.noreply.github.com.> | Committer: Ishaq Ahmed <231743863+iahmed70@users.noreply.github.com.> | Date: 2025-09-17T17:18:41-04:00 | Added a center path
     2521d23 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-17T21:05:29Z | Auto-update branch-info.txt
 - main
-  SHA: 734254ead95cb60bc85a4cf607bb766f191afd8d
-  Commits: 3
+  SHA: cdf7dd3528f9300a7204bd59025015c8929fefa8
+  Commits: 11
   Recent commits:
-    734254e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-17T21:37:58Z | Auto-update branch-info.txt
-    2521d23 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-17T21:05:29Z | Auto-update branch-info.txt
-    6d06eeb | Author: Ishaq Ahmed <231743863+iahmed70@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-17T17:05:09-04:00 | Initial commit
+    cdf7dd3 | Author: Ishaq Ahmed <231743863+iahmed70@users.noreply.github.com.> | Committer: Ishaq Ahmed <231743863+iahmed70@users.noreply.github.com.> | Date: 2025-09-17T17:57:16-04:00 | Merge branch 'villain-path'
+    8f27276 | Author: Ishaq Ahmed <231743863+iahmed70@users.noreply.github.com.> | Committer: Ishaq Ahmed <231743863+iahmed70@users.noreply.github.com.> | Date: 2025-09-17T17:55:15-04:00 | Merge branch 'main' of github.com:iahmed70/lab4-git-branching
+    fa37527 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-17T21:51:55Z | Auto-update branch-info.txt
+    39c1f0d | Author: Ishaq Ahmed <iahmed70@users.noreply.github.com> | Committer: Ishaq Ahmed <iahmed70@users.noreply.github.com> | Date: 2025-09-17T21:51:11Z | updates to README
+    11470ba | Author: Ishaq Ahmed <iahmed70@users.noreply.github.com> | Committer: Ishaq Ahmed <iahmed70@users.noreply.github.com> | Date: 2025-09-17T21:47:56Z | updates to villain-path
 - villain-path
   SHA: 39c1f0d938ba52f32a045fc2ee44400d13061402
   Commits: 6
